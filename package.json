@@ -1,0 +1,23 @@
+{
+  "name": "scraping-bevzyk-soi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BevzykSoi/scraping-bevzyk-soi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BevzykSoi/scraping-bevzyk-soi/issues"
+  },
+  "homepage": "https://github.com/BevzykSoi/scraping-bevzyk-soi#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2"
+  }
+}
